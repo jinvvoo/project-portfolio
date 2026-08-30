@@ -250,52 +250,37 @@ flowchart LR
     <td>문의 내용과 처리 상태를 확인하고 답변 흐름을 관리합니다.</td>
   </tr>
   <tr>
-    <th>알림센터</th>
     <th>공지 전송</th>
-  </tr>
-  <tr>
-    <td><a href="./assets/admin-notifications-desktop-dummy.png"><img src="./assets/admin-notifications-desktop-dummy.png" alt="QInvest 공개용 합성 알림센터 화면" width="100%" /></a></td>
-    <td><a href="./assets/admin-broadcast-desktop-dummy.png"><img src="./assets/admin-broadcast-desktop-dummy.png" alt="QInvest 공개용 합성 공지 전송 화면" width="100%" /></a></td>
-  </tr>
-  <tr>
-    <td>채널별 알림 작업과 처리 상태를 한곳에서 확인합니다.</td>
-    <td>대상과 채널을 선택하고 사람의 확인을 거쳐 공지를 준비합니다.</td>
-  </tr>
-  <tr>
     <th>AI 라우팅</th>
-    <th>관리 콘솔</th>
   </tr>
   <tr>
+    <td><a href="./assets/admin-broadcast-desktop-dummy.png"><img src="./assets/admin-broadcast-desktop-dummy.png" alt="QInvest 공개용 합성 공지 전송 화면" width="100%" /></a></td>
     <td><a href="./assets/admin-ai-routing-desktop-dummy.png"><img src="./assets/admin-ai-routing-desktop-dummy.png" alt="QInvest 공개용 합성 AI 라우팅 화면" width="100%" /></a></td>
-    <td><a href="./assets/admin-ops-desktop-dummy.jpg"><img src="./assets/admin-ops-desktop-dummy.jpg" alt="QInvest 공개용 합성 관리 콘솔 화면" width="100%" /></a></td>
   </tr>
   <tr>
+    <td>대상과 채널을 선택하고 사람의 확인을 거쳐 공지를 준비합니다.</td>
     <td>요청 유형에 따라 분석·요약 작업의 처리 경로를 구성합니다.</td>
-    <td>분석 작업과 시장 브리핑 생성 상태를 같은 기준으로 확인합니다.</td>
   </tr>
   <tr>
+    <th>관리 콘솔</th>
     <th>홈 미리보기</th>
-    <th>지식 그래프</th>
   </tr>
   <tr>
+    <td><a href="./assets/admin-ops-desktop-dummy.jpg"><img src="./assets/admin-ops-desktop-dummy.jpg" alt="QInvest 공개용 합성 관리 콘솔 화면" width="100%" /></a></td>
     <td><a href="./assets/admin-home-preview-desktop-dummy.png"><img src="./assets/admin-home-preview-desktop-dummy.png" alt="QInvest 공개용 합성 홈 미리보기 화면" width="100%" /></a></td>
-    <td><a href="./assets/admin-knowledge-graph-desktop-dummy.png"><img src="./assets/admin-knowledge-graph-desktop-dummy.png" alt="QInvest 공개용 합성 지식 그래프 화면" width="100%" /></a></td>
   </tr>
   <tr>
+    <td>분석 작업과 시장 브리핑 생성 상태를 같은 기준으로 확인합니다.</td>
     <td>공개 전 홈 콘텐츠의 구성과 노출 상태를 점검합니다.</td>
-    <td>분석 자료 사이의 개념과 연결 관계를 시각적으로 탐색합니다.</td>
   </tr>
   <tr>
-    <th>세컨드 브레인</th>
-    <th>콘텐츠 검토</th>
+    <th colspan="2">콘텐츠 검토</th>
   </tr>
   <tr>
-    <td><a href="./assets/admin-second-brain-desktop-dummy.png"><img src="./assets/admin-second-brain-desktop-dummy.png" alt="QInvest 공개용 합성 세컨드 브레인 화면" width="100%" /></a></td>
-    <td><a href="./assets/admin-promoter-desktop-dummy.png"><img src="./assets/admin-promoter-desktop-dummy.png" alt="QInvest 공개용 합성 콘텐츠 검토 화면" width="100%" /></a></td>
+    <td colspan="2" align="center"><a href="./assets/admin-promoter-desktop-dummy.png"><img src="./assets/admin-promoter-desktop-dummy.png" alt="QInvest 공개용 합성 콘텐츠 검토 화면" width="50%" /></a></td>
   </tr>
   <tr>
-    <td>시장 자료와 메모를 축적하고 다시 활용할 수 있도록 정리합니다.</td>
-    <td>공개 자료를 바탕으로 만든 콘텐츠를 사람이 검토하고 내보냅니다.</td>
+    <td colspan="2" align="center">공개 자료를 바탕으로 만든 콘텐츠를 사람이 검토하고 내보냅니다.</td>
   </tr>
 </table>
 
