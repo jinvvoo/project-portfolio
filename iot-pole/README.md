@@ -179,8 +179,8 @@ Raspberry Pi와 센서로 회로를 구성하고, 각 센서와 클라우드 플
 
 17쪽은 PMS7003 미세먼지 데이터 수집·전송 코드, 18쪽은 클라우드 명령에 따른 전원 상태 제어 코드 설명입니다.
 
-## 코드와 공개 범위
+## 포트폴리오 코드 안내
 
-`code/`에는 2021년 전신주 최종 프로젝트 코드 5개를 바탕으로 인증값을 제거하고 구조를 정리한 포트폴리오용 사본을 담았습니다. 실제 조직 ID·장치 ID·토큰은 포함하지 않습니다.
+`code/`에는 2021년 전신주 최종 프로젝트에서 사용한 Python 코드 5개를 센서와 역할이 드러나도록 정리했습니다.
 
-이 자료는 당시 구현과 판단을 설명하기 위한 기록입니다. IBM Watson IoT 서비스와 Raspberry Pi용 라이브러리 환경이 달라졌을 수 있으므로 현재 환경에서의 실행 가능성을 의미하지 않습니다. PMS7003 관련 제3자 고지는 [`code/THIRD_PARTY_NOTICES.md`](code/THIRD_PARTY_NOTICES.md)에 정리했습니다.
+코드는 당시 IBM Watson IoT와 Raspberry Pi 환경을 기준으로 작성했습니다. PMS7003 관련 제3자 고지는 [`code/THIRD_PARTY_NOTICES.md`](code/THIRD_PARTY_NOTICES.md)에 정리했습니다.
